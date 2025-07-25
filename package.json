@@ -1,0 +1,21 @@
+{
+  "name": "@slyvex/ux",
+  "version": "1.0.0",
+  "description": "Slyvex Wallet User Interface Framework",
+  "main": "slyvex-ux.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slyvex-core/node-slyvex-ux"
+  },
+  "keywords": [],
+  "dependencies": {},
+  "files": [
+    "slyvex-ux.js",
+    "slyvex-ux.css",
+    "src",
+    "README.md",
+    "LICENSE",
+    "resources"
+  ]
+}
